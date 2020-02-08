@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PlacaApp</string>
+    <string name="main_title">placapp</string>
+    <string name="main_subtitle">Transforme seus jogos \nem momentos inesquecíveis.</string>
+    <string name="button_new_game">Novo Jogo</string>
+    <string name="button_exit">Sair</string>
+    <string name="developed_by">Desenvolvido por Vitor Ferraz Varela</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_start_game">Vamos começar!</string>
+    <string name="tv_event_name">Qual o nome do evento?</string>
+</resources>
